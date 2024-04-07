@@ -111,6 +111,7 @@ ul {
 .profile__social-link:hover {
     background-color: var(--green);
     color: var(--dark-grey);
+    transition: all 0.5s linear;
 }
 
 .profile__social-link a {
